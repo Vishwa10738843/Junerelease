@@ -1,6 +1,7 @@
 public class employee{
 public void hello(){
 system.debug('hello git');
+system.debug('welcome  github');
 }
 public void dosub(){
 integer a=10;
