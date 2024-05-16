@@ -2,4 +2,10 @@ public class employee{
 public void hello(){
 system.debug('hello git');
 }
+public void dosub(){
+integer a=10;
+integer b=10;
+integer res=a-b;
+system.debug(res);
+}
 }
